@@ -1,2 +1,3 @@
 # Telegram-Bot
-Prep_bot is a Python-powered Telegram bot designed to streamline preparation for exams, interviews, and skill-building sessions. Built with simplicity and scalability in mind, it offers users quick access to curated resources, flashcards, mock questions, and productivity tools—all within the Telegram interface.
+Prep_bot — Telegram Bot Prototype (Python)
+Prep_bot is a basic Telegram bot built using Python, designed as a prototype for future development. Its current functionality is limited to greeting users and collecting simple personal details such as name, age, and address
